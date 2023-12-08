@@ -1,0 +1,7 @@
+"samplename","num_total_snv","num_Clusters","num_clonal_snv","num_subclonal_snv","Subclonal_fraction","cancer_type"
+"468083cb-95c3-47c1-9d96-79bcf7bf3f26",33748,2,31955,1793,0.053129074,"LICA"
+"7eb0ee38-fbe2-49ea-ba63-aa13825eca6e",9390,2,8896,494,0.052609159,"LICA"
+"8cf713ff-256b-4411-a1b4-5bf6f445b747",9438,2,8907,531,0.05626192,"LICA"
+"cb573c96-f6d4-4897-8919-9827f623b6a7",7917,1,7917,0,0,"LICA"
+"d3b72600-a888-4ef6-ac5d-661c105405dd",23824,2,22422,1402,0.05884822,"LICA"
+"f4025b40-a249-487f-8e93-7a140bcf57c1",11546,1,11546,0,0,"LICA"
